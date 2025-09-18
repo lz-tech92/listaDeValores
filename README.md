@@ -11,10 +11,6 @@ Actualmente este repositorio contiene la estructura básica del proyecto.
 - [Requisitos](#requisitos)  
 - [Instalación](#instalación)  
 - [Uso](#uso)  
-- [Estructura del proyecto](#estructura-del-proyecto)  
-- [Contribuir](#contribuir)  
-- [Licencia](#licencia)  
-- [Contacto](#contacto)
 
 ---
 
